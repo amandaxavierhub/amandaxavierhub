@@ -12,7 +12,7 @@
 
 -- 📖 Desenvolvedora back-end em progresso
 <p>
-   Curso ADS e meu design favorito são as cores e linhas do terminal.<br>
+   Curso ADS e meu design favorito são as cores do terminal.<br>
    Foi com python que tive meu primeiro contato com programação. Além de CSS <br>
    HTML, e um pouco de Java, estou me aventurando em data science. <br>
    Hobbies: Ler, jogar (principalmente rpg), tocar e provocar minha gatinha Khalisto!
